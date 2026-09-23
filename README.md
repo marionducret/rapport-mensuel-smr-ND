@@ -1,2 +1,2 @@
-# rapport-mensuel-solimed
-génération des rapports mensuels pour SOLIMED
+# rapport-mensuel-SMR-ND
+génération des rapports mensuels SMR pour ND
